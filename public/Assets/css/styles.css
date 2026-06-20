@@ -1,0 +1,63 @@
+/* GERAL */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* CARROSSEL */
+.carousel-img {
+  height: 420px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.55);
+  border-radius: 8px;
+  padding: 10px 16px;
+}
+
+/* CARDS DA HOME */
+.card-jogo {
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-jogo:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-jogo {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* CARDS DE PERSONAGENS */
+.card-img-personagem {
+  height: 180px;
+  object-fit: cover;
+}
+
+/* FOOTER */
+footer {
+  margin-top: 60px;
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 576px) {
+  .carousel-img {
+    height: 220px;
+  }
+
+  .carousel-caption {
+    display: none !important;
+  }
+}

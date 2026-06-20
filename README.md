@@ -5,12 +5,11 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Victor Dante Fonseca Oliveira
+- Matricula:909385
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![Home-page](Assets/img/Print-home)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+![Página de detalhes](Assets/img/Print-detalhes)
