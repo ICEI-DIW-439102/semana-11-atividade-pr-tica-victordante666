@@ -10,6 +10,6 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Prints do trabalho
 
-![Home-page](Assets/img/Print-home)
+![Home-page](public/Assets/img/Print-home.jpg)
 
-![Página de detalhes](Assets/img/Print-detalhes)
+![Página de detalhes](public/Assets/img/Print-detalhes.jpg)
